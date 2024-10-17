@@ -47,8 +47,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 Developed by: NARRA AKHIL
 RegisterNumber:212223230136
 */
-```
-```
+
 module jk_ff(q,qb,j,k,clock,reset);
 input j,k,clock, reset;
 output reg q,qb;
