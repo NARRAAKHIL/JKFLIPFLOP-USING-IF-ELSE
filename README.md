@@ -35,7 +35,7 @@ By using three variable K-Map, we can get the simplified expression for next sta
 The maximum possible groupings of adjacent ones are already shown in the figure. Therefore, the simplified expression for next state Qt+1t+1 is Q(t+1)=JQ(t)′+K′Q(t)Q(t+1)=JQ(t)′+K′Q(t)
 
 ## Procedure:
-```
+
 1.Go to quartus software.
 
 2.Set new environment.
@@ -88,7 +88,6 @@ else
 end           
 endmodule
 ```
-
 ## RTL LOGIC FOR FLIPFLOPS:
 <img width="697" alt="Exd-07(1)" src="https://github.com/Keerthana-VJ/JKFLIPFLOP-USING-IF-ELSE/assets/149347704/b75455ed-75a6-4b42-a2e1-ca2458793742">
 
